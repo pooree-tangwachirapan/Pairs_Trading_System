@@ -102,3 +102,4 @@ with tab2:
             
         except Exception as e:
             st.error(f"เกิดข้อผิดพลาด: {e}. กรุณาตรวจสอบชื่อหุ้น")
+
